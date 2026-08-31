@@ -17,5 +17,6 @@ These are active contributors who have made multiple contributions to the projec
 | Jasper De Keukelaere | [@jasperdekeuk](https://github.com/jasperdekeuk) | [🟢 This week](https://github.com/kairos-io/AuroraBoot/pull/576) |
 | William Crum | [@wcrum](https://github.com/wcrum) | [🟡 This quarter](https://github.com/kairos-io/community/pull/22) |
 | Olivier Calzi | [@ocalzi](https://github.com/ocalzi) | [🟢 This week](https://github.com/kairos-io/kairos-docs/pull/649) |
+| Bohdan Leshchenko | [@thebhdn](https://github.com/thebhdn) | [🟢 This month](https://github.com/kairos-io/kairos-docs/pull/670) |
 
 _Last activity refreshed 2026-08-01 (UTC)._
