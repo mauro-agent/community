@@ -37,6 +37,11 @@ Contribute
 </tr>
 </table>
 
+> **Found a bug, or want to request a feature?** Open it on
+> [kairos-io/kairos](https://github.com/kairos-io/kairos/issues), including
+> issues about this repository. Every Kairos issue lives in one place, so you
+> never have to work out which repository to file against.
+
 ## :handshake: Kairos Community
 
 Welcome to the Kairos community page! Here, you'll find all the necessary information to get involved, contribute, and engage with the Kairos project. 
@@ -87,7 +92,6 @@ Discover companies and projects that have adopted Kairos in their edge computing
 ## Maintainers
 
 Meet the dedicated team of maintainers who work tirelessly to keep the Kairos project running smoothly. You can find a list of our [Maintainers here](https://github.com/kairos-io/community/blob/main/MAINTAINERS.md).
-
 
 ## Join the Kairos Community
 
