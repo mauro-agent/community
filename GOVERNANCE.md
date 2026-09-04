@@ -115,6 +115,25 @@ The roles used in this document are custom roles mapped according to the [GitHub
 | Maintainer     | Maintain       |
 | Administrator  | Admin          |
 
+### Onboarding Guidance
+
+A new Approver, Maintainer, or Administrator joins through nomination and a vote. Nobody self-applies for a role.
+
+1. **Nomination.** An existing Maintainer or Administrator nominates the candidate, against the checklist for the role in the table above.
+2. **Vote.** The current Maintainers vote on the nomination. This is the same vote the role table above already requires for a new Maintainer ("Voted in by the Kairos maintainers").
+3. **Access grant.** Once voted in, an Administrator grants the GitHub role from the [role mapping table](#mapping-project-roles-to-github-roles) above.
+4. **Mentoring.** An existing Maintainer mentors the new member for their first weeks. The mentor answers questions on process and on project conventions.
+
 ### Off-boarding Guidance
 
-If any of the above roles hasn't contributed in any phases (including, but not limited to: code changes, doc updates, issue discussions) in 3 months, the administrator needs to inform the member and remove one's roles and GitHub permissions.
+If any of the above roles hasn't contributed in any phase (including, but not limited to: code changes, doc updates, issue discussions) in 3 months, the administrator needs to inform the member, remove their roles and GitHub permissions, and move them to emeritus status (see Emeritus Status below).
+
+### Emeritus Status
+
+A Maintainer or Approver who steps back, or who is off-boarded under the rule above, moves to emeritus status. Emeritus status is not removal from the project record.
+
+- **What it means.** GitHub access is removed. The person stays listed as a past Maintainer, in the "Previous maintainers" table of [MAINTAINERS.md](/MAINTAINERS.md).
+- **How the transition happens.** The administrator who applies the Off-boarding Guidance above adds the outgoing Maintainer to the "Previous maintainers" table, with their role and affiliation at the time they stepped back.
+- **Path back.** An emeritus Maintainer returns to active status through the same nomination and vote as a new Maintainer, informed by their prior history with the project.
+
+Kairos already has emeritus examples: Jacob Payne and Oz Tiram, both listed under [Previous maintainers](https://github.com/kairos-io/community/blob/main/MAINTAINERS.md#previous-maintainers) in MAINTAINERS.md. The current Maintainer list also shows a cross-company addition: William Rizzo, from Mirantis, joining a team otherwise from Spectro Cloud.
